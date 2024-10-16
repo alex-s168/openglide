@@ -18,7 +18,7 @@
 
 #include <GL/glx.h>
 
-#include "platform/openglext.h"
+#include "../openglext.h"
 
 ExtFn OGLGetProcAddress(const char *x)
 {

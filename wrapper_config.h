@@ -1,7 +1,7 @@
 #ifndef WRAPPER_CONFIG_H
 #define WRAPPER_CONFIG_H
 
-#include "sdk2_3dfx.h"
+#include "sdk2/3dfx.h"
 
 #define WRAPPER_FLAG_WINDOWED               (0x1)
 #define WRAPPER_FLAG_MIPMAPS                (0x2)

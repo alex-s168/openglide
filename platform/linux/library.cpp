@@ -12,7 +12,7 @@
 #ifndef WIN32
 
 #include <stdlib.h>
-#include "GlOgl.h"
+#include "../../GlOgl.h"
 
 class InitLibrary
 {

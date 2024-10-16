@@ -33,9 +33,9 @@
 #ifndef __GLIDE_H__
 #define __GLIDE_H__
 
-#include "sdk2_3dfx.h"
-#include "sdk2_glidesys.h"
-#include "sdk2_sst1vid.h"
+#include "3dfx.h"
+#include "glidesys.h"
+#include "sst1vid.h"
 
 #ifdef __cplusplus
 extern "C" {
@@ -1512,6 +1512,6 @@ grDrawVertexArrayLinear(FxU32 mode, FxU32 Count, void *pointers, FxU32 stride);
 }
 #endif
 
-#include "sdk2_glideutl.h"
+#include "glideutl.h"
 
 #endif /* __GLIDE_H__ */

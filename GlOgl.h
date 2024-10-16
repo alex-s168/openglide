@@ -40,7 +40,7 @@
 
 #include <stdio.h>
 
-#include "sdk2_glide.h"
+#include "sdk2/glide.h"
 
 #ifdef _MSC_VER
 #define RDTSC(v)    __asm _emit 0x0f                \

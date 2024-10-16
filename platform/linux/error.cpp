@@ -12,7 +12,7 @@
 #ifndef WIN32
 
 #include <stdio.h>
-#include "platform/error.h"
+#include "../error.h"
 
 void ReportWarning(const char *message)
 {

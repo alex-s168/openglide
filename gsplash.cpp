@@ -71,8 +71,8 @@
  * Updated grSplash code to set all of the necessary state itself rather
  * than expecting the caller to do so.
  */
-#include <sdk2_3dfx.h>
-#include <sdk2_glide.h>
+#include "sdk2/3dfx.h"
+#include "sdk2/glide.h"
 #include <math.h>
 #include "GlOgl.h"
 

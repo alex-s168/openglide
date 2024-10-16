@@ -13,7 +13,7 @@
 #ifndef __PGTEXTURE_H__
 #define __PGTEXTURE_H__
 
-#include "sdk2_glide.h"
+#include "sdk2/glide.h"
 #include "TexDB.h"
 
 class PGTexture  

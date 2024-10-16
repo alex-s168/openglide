@@ -13,7 +13,7 @@
 #ifndef __TEXDB_H__
 #define __TEXDB_H__
 
-#include "sdk2_glide.h"
+#include "sdk2/glide.h"
 
 class TexDB  
 {

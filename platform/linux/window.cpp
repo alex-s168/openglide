@@ -22,10 +22,10 @@
 #include <GL/glx.h>
 #include <X11/extensions/xf86vmode.h>
 
-#include "GlOgl.h"
+#include "../../GlOgl.h"
 
-#include "platform/openglext.h"
-#include "platform/window.h"
+#include "../openglext.h"
+#include "../window.h"
 
 #define _strtime(s) {time_t t = time(0); strftime(s, 99, "%H:%M:%S", localtime (&t));}
 #define _strdate(s) {time_t t = time(0); strftime(s, 99, "%d %b %Y", localtime (&t));}

@@ -16,7 +16,7 @@
 #ifndef __WINDOW_H__
 #define __WINDOW_H__
 
-#include "sdk2_3dfx.h"
+#include "../sdk2/3dfx.h"
 
 // Include proper OpenGL headers
 #ifdef C_USE_SDL

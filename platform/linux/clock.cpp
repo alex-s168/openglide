@@ -13,7 +13,7 @@
 
 #include <stdio.h>
 #include <string.h>
-#include "platform/clock.h"
+#include "../clock.h"
 
 float ClockFrequency( void )
 {
