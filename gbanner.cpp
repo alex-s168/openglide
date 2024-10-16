@@ -51,7 +51,6 @@
 
 #include <sdk2_3dfx.h>
 #include <sdk2_glidesys.h>
-#include <glide.h>
 #include "GlOgl.h"
 
 // OpenGLide specific
